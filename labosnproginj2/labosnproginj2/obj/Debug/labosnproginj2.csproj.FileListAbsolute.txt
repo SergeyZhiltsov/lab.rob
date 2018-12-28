@@ -1,0 +1,14 @@
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.csprojAssemblyReference.cache
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.Properties.Resources.resources
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.csproj.GenerateResource.cache
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.csproj.CoreCompileInputs.cache
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\bin\Debug\labosnproginj2.exe.config
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\bin\Debug\labosnproginj2.exe
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\bin\Debug\labosnproginj2.pdb
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.Form1.resources
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.exe
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.pdb
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.Form2.resources
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.Form3.resources
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.RTF.resources
+C:\Users\hasep\source\repos\labosnproginj2\labosnproginj2\obj\Debug\labosnproginj2.JPEG.resources
